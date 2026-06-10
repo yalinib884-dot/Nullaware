@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+storage/chromadb/
+storage/uploads/
+storage/profile_json/
+storage/reports/
+storage/charts/
