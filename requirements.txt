@@ -4,7 +4,7 @@ numpy==1.24.4
 ydata-profiling==4.6.4
 chromadb==0.4.24
 sentence-transformers==2.7.0
-google-generativeai==0.5.4
+google-generativeai==0.7.0
 langgraph==0.1.5
 langchain==0.2.16
 langchain-core==0.2.43
